@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanharr
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently a Web Developer
 - 💞️ I’m looking to collaborate on Open source python projects
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
